@@ -13,7 +13,7 @@ Projeto frontend de um slider realizado em aula do <a href="https://www.frontsta
 <br>
 <h2 align="center">Realizado:</h2>
 <p align="center">
-  <img alt="projeto preview product" src=".github/project.png" width="100%">
+  <img alt="slider" src=".github/project.png" width="100%">
 </p>
 
 
